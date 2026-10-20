@@ -1,16 +1,14 @@
-## Hi there 👋
+### 🌐 Apps (pages.dev)
 
-<!--
-**usumerican/usumerican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[AreaGrid](https://areagrid.pages.dev)** - An Area Puzzle solver to create, solve, and share logic puzzles.
+- **[Shogi Mate (将棋メイト)](https://shogimate.pages.dev)** - A browser-based Shogi app where you can play against AI and solve checkmate puzzles.
+- **[Z Shanten (Z向聴)](https://zshanten.pages.dev)** - A Mahjong hand efficiency calculator and training tool to find optimal discards.
+- **[Small Mahjong (ちい麻雀)](https://smallmahjong.pages.dev)** - A simplified Japanese Riichi Mahjong game without melding and honor tiles.
 
-Here are some ideas to get you started:
+### 🎮 Games (itch.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[EmoJigsaw](https://usumerican.itch.io/emojigsaw)** - Drag, slide, and swap pieces to complete the emoji!
+- **[MineSweePaper](https://usumerican.itch.io/minesweepaper)** - A 100% logic, no-guessing Minesweeper paper-and-pen puzzle.
+- **[Safe Minesweeper](https://usumerican.itch.io/safemine)** - No-guessing Minesweeper optimized for mobile and desktop browsers.
+- **[Tic Tac to End](https://usumerican.itch.io/ttte)** - A strategic Tic-Tac-Toe variant focusing on pattern-counting.
+- **[eKaruta](https://usumerican.itch.io/ekaruta)** - Emoji flash cards. Listen, Read, and Choose!
