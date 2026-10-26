@@ -7,6 +7,7 @@
 
 ### 🎮 Games (itch.io)
 
+- **[FactorChain](https://usumerican.itch.io/factorchain)** - A math puzzle where you connect every cell in a single path by linking the back factor to the next front factor.
 - **[EmoJigsaw](https://usumerican.itch.io/emojigsaw)** - Drag, slide, and swap pieces to complete the emoji!
 - **[MineSweePaper](https://usumerican.itch.io/minesweepaper)** - A 100% logic, no-guessing Minesweeper paper-and-pen puzzle.
 - **[Safe Minesweeper](https://usumerican.itch.io/safemine)** - No-guessing Minesweeper optimized for mobile and desktop browsers.
